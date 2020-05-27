@@ -1,2 +1,2 @@
-# comp440_hw
-comp440 homework 
+# comp440
+comp440 slides and homework 
